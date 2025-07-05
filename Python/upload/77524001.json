@@ -1,0 +1,1002 @@
+[
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " \u0905\u0917\u0930",
+        "end_time": "2.455",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "0.498",
+        "transcription": " \u0905\u0917\u0930"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Good afternoon, welcome to   \u0938\u0941\u092e\u093f\u0924 How may I?",
+        "end_time": "5.257",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "2.152",
+        "transcription": " Good afternoon, welcome to   \u0938\u0941\u092e\u093f\u0924 How may I?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " \u0938\u0941\u092e\u093f\u0924 regarding my order, the order was picked up, but I have not received the refund.",
+        "end_time": "13.087",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "6.185",
+        "transcription": " \u0938\u0941\u092e\u093f\u0924 regarding my order, the order was picked up, but I have not received the refund."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " in my bank account.",
+        "end_time": "15.112",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "13.728",
+        "transcription": " in my bank account."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok, I am really  for your inconvenience caused to you ma'am. Please be rest assured I will try to help in this call. So as I can understand that your product has been picked up but you have initiated return for refund and also product has been picked up but you didn't get the refund yet on your account. Right?",
+        "end_time": "32.678",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "15.938",
+        "transcription": " Ok, I am really  for your inconvenience caused to you ma'am. Please be rest assured I will try to help in this call. So as I can understand that your product has been picked up but you have initiated return for refund and also product has been picked up but you didn't get the refund yet on your account. Right?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 32.324,
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": 32.105,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "33.944",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "33.556",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "34.467",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "33.944",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I can understand. I am really sorry for this inconvenience mam. Please be assist ma'am, I will try to help you in this call. So could you please confirm the order ID number there is mentioned  order ID. This is 1 2 8 2 4 7  double 0 6",
+        "end_time": "49.452",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "35.581",
+        "transcription": " I can understand. I am really sorry for this inconvenience mam. Please be assist ma'am, I will try to help you in this call. So could you please confirm the order ID number there is mentioned  order ID. This is 1 2 8 2 4 7  double 0 6"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "48.845",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "48.389",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Correct this",
+        "end_time": "51.072",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "50.228",
+        "transcription": " Correct this"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok, thank you so much for the confirmation. Just give me",
+        "end_time": "54.548",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "51.781",
+        "transcription": " Ok, thank you so much for the confirmation. Just give me"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " refund for 2 2 rent went into the store credit. I was told that it will be reflecting back into my account but that has  been reflected and for the other 2 items there is no refund.",
+        "end_time": "66.647",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "54.16",
+        "transcription": " refund for 2 2 rent went into the store credit. I was told that it will be reflecting back into my account but that has  been reflected and for the other 2 items there is no refund."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "68.623",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "68.015",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok. Please be on call. Let me check the rating.",
+        "end_time": "72.183",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "69.635",
+        "transcription": " Ok. Please be on call. Let me check the rating."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So as I can check that order was placed on  30 first of January by name of \u0938\u091a\u093f\u0928 and total order value is #### rupees.",
+        "end_time": "81.768",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "72.892",
+        "transcription": " So as I can check that order was placed on  30 first of January by name of \u0938\u091a\u093f\u0928 and total order value is #### rupees."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "82.865",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "82.527",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "84.535",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "84.063",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Let me check the details and 1 more thing I would like to inform you that if in case call get disconnect between the conversation due to some technical glitch So please don't worry I will callback you within a minute from my side. Ok ma'am.",
+        "end_time": "96.989",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "85.227",
+        "transcription": " Let me check the details and 1 more thing I would like to inform you that if in case call get disconnect between the conversation due to some technical glitch So please don't worry I will callback you within a minute from my side. Ok ma'am."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "98.424",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "97.985",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah, just give me moment let me check the details.",
+        "end_time": "101.799",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "99.723",
+        "transcription": " Yeah, just give me moment let me check the details."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So as I can check that you have purchased contact lacs for color contact lines right?",
+        "end_time": "111.654",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "106.507",
+        "transcription": " So as I can check that you have purchased contact lacs for color contact lines right?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "112.666",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "112.295",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So all the products there are car 4 box I am so sorry 4 box of the contact link. So all the box has been picked",
+        "end_time": "124.664",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "116.193",
+        "transcription": " So all the products there are car 4 box I am so sorry 4 box of the contact link. So all the box has been picked"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " So",
+        "end_time": "123.095",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "122.555",
+        "transcription": " So"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "128.781",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "128.309",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " It's taken some time to check the complete information. Just give me",
+        "end_time": "136.612",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "133.186",
+        "transcription": " It's taken some time to check the complete information. Just give me"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " it's taking some more time.",
+        "end_time": "150.348",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "149.217",
+        "transcription": " it's taking some more time."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "151.783",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "151.31",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 152.643,
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": 152.407,
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 152.727,
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": 152.643,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "157.031",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "156.457",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "158.988",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "157.84",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "162.768",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "162.447",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 163.646,
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": 163.612,
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I'm really sorry that  something it's taking some more time. So may I please put your call on hold for 1 minute?",
+        "end_time": "169.18",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "163.645",
+        "transcription": " I'm really sorry that  something it's taking some more time. So may I please put your call on hold for 1 minute?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " May I please put your call on hold for",
+        "end_time": "173.973",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "172.1",
+        "transcription": " May I please put your call on hold for"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "174.917",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "174.563",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Thank",
+        "end_time": "176.285",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "175.745",
+        "transcription": " Thank"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 281.281,
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": 281.112,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "290.984",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "290.663",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "294.106",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "293.617",
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah. Thank you for being on hold  I am really sorry for the long hold.",
+        "end_time": "303.353",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "299.708",
+        "transcription": " Yeah. Thank you for being on hold  I am really sorry for the long hold."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So ma'am  yeah as I can check that there is a contact line of 2 contact re and 2 contact  blue color right? So    there is mentioned for   it's already pickup share has been updated and already refund amount already initiated on eighth of primary So it will they mentioned that it will receive on your account.",
+        "end_time": "329.392",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "304.113",
+        "transcription": " So ma'am  yeah as I can check that there is a contact line of 2 contact re and 2 contact  blue color right? So    there is mentioned for   it's already pickup share has been updated and already refund amount already initiated on eighth of primary So it will they mentioned that it will receive on your account."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "305.649",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "305.092",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "314.879",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "314.373",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " by twelfth of try but still you didn't receive the amount, right? And second thing is   contact lane",
+        "end_time": "337.778",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "330.387",
+        "transcription": " by twelfth of try but still you didn't receive the amount, right? And second thing is   contact lane"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " they  they  mentioned that the product will be reach out to the house.",
+        "end_time": "341.862",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "338.605",
+        "transcription": " they  they  mentioned that the product will be reach out to the house."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " by 20 first of every and you got the amount. So when the product will  reach to the  house and after that we can provide the  amount to your bank",
+        "end_time": "353.506",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "342.622",
+        "transcription": " by 20 first of every and you got the amount. So when the product will  reach to the  house and after that we can provide the  amount to your bank"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ok?  That's taking too long  while  taking so long for it. Sorry?",
+        "end_time": "360.526",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "355.885",
+        "transcription": " ok?  That's taking too long  while  taking so long for it. Sorry?"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " it's taking so long for it. why  taking so long.",
+        "end_time": "366.01",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "362.517",
+        "transcription": " it's taking so long for it. why  taking so long."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok. I can understand  I'm really sorry for that but as I can check  when the pickup was initiated return was initiated for contact  for blue 1. They is mention that written  from where house So  first of all the product will be   the  house and after that you will get the amount. So 1 more thing could you please confirm me that blue 1 contact and when the blue  contact lines picked",
+        "end_time": "390.935",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "365.555",
+        "transcription": " Ok. I can understand  I'm really sorry for that but as I can check  when the pickup was initiated return was initiated for contact  for blue 1. They is mention that written  from where house So  first of all the product will be   the  house and after that you will get the amount. So 1 more thing could you please confirm me that blue 1 contact and when the blue  contact lines picked"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " I don't remember I'll have to check it. Can you call me sometime  I can find out and tell you.",
+        "end_time": "398.832",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "393.263",
+        "transcription": " I don't remember I'll have to check it. Can you call me sometime  I can find out and tell you."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Could you please confirm me that right now?",
+        "end_time": "401.684",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "399.406",
+        "transcription": " Could you please confirm me that right now?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I just want to  know the date.",
+        "end_time": "404.586",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "402.494",
+        "transcription": " I just want to  know the date."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 405.683,
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": 405.565,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " No no, it will take  some time. Because I need to find out from my watchman when it was picked up I have to take a  moment.",
+        "end_time": "413.109",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "406.342",
+        "transcription": " No no, it will take  some time. Because I need to find out from my watchman when it was picked up I have to take a  moment."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " No no, it will take  some time. Because I need to find out from my watchman when it was picked up I have to take a  moment.",
+        "end_time": "413.986",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "413.969",
+        "transcription": " No no, it will take  some time. Because I need to find out from my watchman when it was picked up I have to take a  moment."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok ok. So for the  further information just it taken some more time so just give me a moment.",
+        "end_time": "419.639",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "413.986",
+        "transcription": " Ok ok. So for the  further information just it taken some more time so just give me a moment."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok. Please be on call Yeah, Don't discount call it's taking some more time. So for the better information, may I please put your call on hold for 1 minute for again?",
+        "end_time": "428.887",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "421.158",
+        "transcription": " Ok. Please be on call Yeah, Don't discount call it's taking some more time. So for the better information, may I please put your call on hold for 1 minute for again?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Can you find out why  the transaction ID for the grey",
+        "end_time": "436.935",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "430.523",
+        "transcription": " Can you find out why  the transaction ID for the grey"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " The 1 is showing that it's already initiated but it's pending. So I have to raise a request for that.",
+        "end_time": "444.817",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "437.51",
+        "transcription": " The 1 is showing that it's already initiated but it's pending. So I have to raise a request for that."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " The 1 is showing that it's already initiated but it's pending. So I have to raise a request for that.",
+        "end_time": "446.673",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "446.656",
+        "transcription": " The 1 is showing that it's already initiated but it's pending. So I have to raise a request for that."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yes right. Yeah.",
+        "end_time": "447.652",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "446.673",
+        "transcription": " Yes right. Yeah."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Please be on call.",
+        "end_time": "451.617",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "450.571",
+        "transcription": " Please be on call."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Please be on call.",
+        "end_time": "453.693",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "453.676",
+        "transcription": " Please be on call."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "454.098",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "453.693",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " and could you please confirm your mail ID?",
+        "end_time": "463.413",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "460.915",
+        "transcription": " and could you please confirm your mail ID?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " \u091c\u0948\u0938\u0947",
+        "end_time": "466.298",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "465.775",
+        "transcription": " \u091c\u0948\u0938\u0947"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " What is the registered in",
+        "end_time": "469.994",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "466.653",
+        "transcription": " What is the registered in"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "468.543",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "468.104",
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " You can share an email ID. There is mentioned 1 email ID this is r  k s and the score    at the rate  mail dot com.",
+        "end_time": "479.022",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "470.112",
+        "transcription": " You can share an email ID. There is mentioned 1 email ID this is r  k s and the score    at the rate  mail dot com."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yeah, that's  working day madam. Ok.",
+        "end_time": "483.545",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "480.642",
+        "transcription": " Yeah, that's  working day madam. Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok ok, thank you so much for the confirmation. Just give me a moment",
+        "end_time": "487.207",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "483.562",
+        "transcription": " Ok ok, thank you so much for the confirmation. Just give me a moment"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "502.681",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "501.449",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " not",
+        "end_time": "506.309",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "505.128",
+        "transcription": " not"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " taken some more time. So may I please  your call on hold for 1 minute?",
+        "end_time": "517.616",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "514.072",
+        "transcription": " taken some more time. So may I please  your call on hold for 1 minute?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yeah",
+        "end_time": "520.939",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "519.64",
+        "transcription": " Yeah"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "520.18",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "519.775",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 520.264,
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": 520.18,
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "521.311",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "520.94",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Sorry?",
+        "end_time": "522.559",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "522.07",
+        "transcription": " Sorry?"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "523.943",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "523.184",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Sure sir. Thank you.",
+        "end_time": "526.238",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "524.787",
+        "transcription": " Sure sir. Thank you."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Thank you for being on hold ma'am. I am really sorry for the long hold.",
+        "end_time": "717.281",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "714.142",
+        "transcription": " Thank you for being on hold ma'am. I am really sorry for the long hold."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah,  I am initiating the request sorry, I'm raising a request for the refund related. So after that it will take maximum  today",
+        "end_time": "727.102",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "719.086",
+        "transcription": " Yeah,  I am initiating the request sorry, I'm raising a request for the refund related. So after that it will take maximum  today"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ok after that team will see that so maximum by 20 of 20 first of every team will provide update regarding the refund related which is already initiated on eighth of every for  for contact cancel. It's ###. Ok? And which you have got received",
+        "end_time": "746.694",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "727.743",
+        "transcription": " ok after that team will see that so maximum by 20 of 20 first of every team will provide update regarding the refund related which is already initiated on eighth of every for  for contact cancel. It's ###. Ok? And which you have got received"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 747.233,
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": 747.166,
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " created on eighth of try I would have received it.",
+        "end_time": "752.582",
+        "language": "en",
+        "speaker_id": "01",
+        "start_time": "748.448",
+        "transcription": " created on eighth of try I would have received it."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " should be received till  twelfth of very but still not received that's why I am raising the request. So after the team will check that and after the team will  can provide  information regarding the",
+        "end_time": "763.974",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "752.583",
+        "transcription": " should be received till  twelfth of very but still not received that's why I am raising the request. So after the team will check that and after the team will  can provide  information regarding the"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "765.255",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "764.648",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " and for blue 1 product as in blue  contact and as I can check that there is a return was initiated for were house. Ok? So first of all the product will reach to the we house There is mentioned that",
+        "end_time": "779.499",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "766.218",
+        "transcription": " and for blue 1 product as in blue  contact and as I can check that there is a return was initiated for were house. Ok? So first of all the product will reach to the we house There is mentioned that"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " previously was connected so there is mentioned the time the product will be reached reach out to the  by 20 first of every",
+        "end_time": "788.324",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "780.207",
+        "transcription": " previously was connected so there is mentioned the time the product will be reached reach out to the  by 20 first of every"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok and after that we we will provide the credit amount to your bank account.",
+        "end_time": "795.226",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "789.202",
+        "transcription": " Ok and after that we we will provide the credit amount to your bank account."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "797.757",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "797.234",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok. Yeah.",
+        "end_time": "800.474",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "799.715",
+        "transcription": " Ok. Yeah."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 799.968,
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": 799.732,
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So I request you to please please wait for that and also I have mentioned your mail ID so regarding the refund the team will provide update on on the mail as well you will get the update on the mail as well. Ok sir ok ma'am I am",
+        "end_time": "817.332",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "802.55",
+        "transcription": " So I request you to please please wait for that and also I have mentioned your mail ID so regarding the refund the team will provide update on on the mail as well you will get the update on the mail as well. Ok sir ok ma'am I am"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Ok, is there anything else may I help you with now?",
+        "end_time": "820.758",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "818.733",
+        "transcription": " Ok, is there anything else may I help you with now?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " No, that's no. Thank you for",
+        "end_time": "823.913",
+        "language": "en",
+        "speaker_id": "00",
+        "start_time": "822.58",
+        "transcription": " No, that's no. Thank you for"
+    }
+]

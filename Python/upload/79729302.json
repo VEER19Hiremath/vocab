@@ -1,0 +1,1282 @@
+[
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Good afternoon, welcome to I'm \u0915\u0932   expired.",
+        "end_time": "6.488",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "2.489",
+        "transcription": " Good afternoon, welcome to I'm \u0915\u0932   expired."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Actually, I am having some problem with my recent order. I want to refund it, but I'm not getting such option.",
+        "end_time": "14.622",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "8.699",
+        "transcription": " Actually, I am having some problem with my recent order. I want to refund it, but I'm not getting such option."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 17.187,
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": 17.018,
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So how can I request",
+        "end_time": "18.453",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "17.187",
+        "transcription": " So how can I request"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah yeah.",
+        "end_time": "20.023",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "19.432",
+        "transcription": " Yeah yeah."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "22.081",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "21.76",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " if you want to return it, I would like to inform you that the concern. transfer this call. customer supporter. So there now I do you want to return",
+        "end_time": "34.281",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "23.11",
+        "transcription": " if you want to return it, I would like to inform you that the concern. transfer this call. customer supporter. So there now I do you want to return"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " because the power has selected it's not  for my",
+        "end_time": "40.07",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "35.902",
+        "transcription": " because the power has selected it's not  for my"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So I want to refund it and I'm not getting such land for from  card.",
+        "end_time": "47.242",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "42.095",
+        "transcription": " So I want to refund it and I'm not getting such land for from  card."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " this call you have to pay to order ID after Ok. So is there anything else may I assist you with apart from",
+        "end_time": "56.995",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "49.452",
+        "transcription": " this call you have to pay to order ID after Ok. So is there anything else may I assist you with apart from"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Please  pick it again what",
+        "end_time": "60.725",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "58.987",
+        "transcription": " Please  pick it again what"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Ok, thank you for choosing",
+        "end_time": "66.007",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "63.121",
+        "transcription": " Ok, thank you for choosing"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Yes.",
+        "end_time": "159.983",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "159.646",
+        "transcription": " Yes."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " \u0939\u093e\u0902.",
+        "end_time": "166.784",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "166.244",
+        "transcription": " \u0939\u093e\u0902."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Hello.",
+        "end_time": "167.898",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "167.375",
+        "transcription": " Hello."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " how may assist  you today?",
+        "end_time": "169.991",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "168.708",
+        "transcription": " how may assist  you today?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I want to return my last order. So how can I do so because we  getting pick option  good afternoon. Thank you.",
+        "end_time": "175.83",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "169.282",
+        "transcription": " I want to return my last order. So how can I do so because we  getting pick option  good afternoon. Thank you."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " afternoon.",
+        "end_time": "174.951",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "174.175",
+        "transcription": " afternoon."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "177.247",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "176.656",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " I understand you wish to   return your last order and I'll certainly with your concern. I believe you are calling from your registered mobile number correct?",
+        "end_time": "192.383",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "182.579",
+        "transcription": " I understand you wish to   return your last order and I'll certainly with your concern. I believe you are calling from your registered mobile number correct?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I",
+        "end_time": "183.069",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "182.596",
+        "transcription": " I"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "188.317",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "187.76",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Let me check.",
+        "end_time": "194.965",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "194.273",
+        "transcription": " Let me check."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah.",
+        "end_time": "199.606",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "199.235",
+        "transcription": " Yeah."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please be online. I'm just checking the details for",
+        "end_time": "203.369",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "201.361",
+        "transcription": " Please be online. I'm just checking the details for"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please be online I am just checking the details for you.  you in  the order ID ending with 5 double ###. Is this the",
+        "end_time": "227.297",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "220.48",
+        "transcription": " Please be online I am just checking the details for you.  you in  the order ID ending with 5 double ###. Is this the"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 222.185,
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": 222.151,
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " only you  can",
+        "end_time": "223.569",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "222.185",
+        "transcription": " only you  can"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. So 1 thing I'd like to inform you like if there is any disconnect on of this call, if the  disconnected due to any issues Do not worry. You need not to call back on the same number. I'll just personally call you back within 1 to 2 minutes. Ok?",
+        "end_time": "243.481",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "229.677",
+        "transcription": " Ok. So 1 thing I'd like to inform you like if there is any disconnect on of this call, if the  disconnected due to any issues Do not worry. You need not to call back on the same number. I'll just personally call you back within 1 to 2 minutes. Ok?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Alright. And ma'am may I know what exactly the issue you are facing with the product so that you wish to return the order.",
+        "end_time": "252.071",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "245.27",
+        "transcription": " Alright. And ma'am may I know what exactly the issue you are facing with the product so that you wish to return the order."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " basically the issue.",
+        "end_time": "248.291",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "247.143",
+        "transcription": " basically the issue."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " are facing with the product  that you wish to our  end. That's why I want to open.",
+        "end_time": "254.061",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "248.29",
+        "transcription": " are facing with the product  that you wish to our  end. That's why I want to open."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yeah. I'm so sorry, your land package you mentioned regular progressing.",
+        "end_time": "264.71",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "260.491",
+        "transcription": " Yeah. I'm so sorry, your land package you mentioned regular progressing."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I I received the same, but it's not edible for me  but  you    want to return",
+        "end_time": "269.519",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "264.659",
+        "transcription": " I I received the same, but it's not edible for me  but  you    want to return"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " What     receive?",
+        "end_time": "268.456",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "266.853",
+        "transcription": " What     receive?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 273.721,
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": 273.485,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. It is not able for you. So what exactly the issue you are facing when you were this gas.",
+        "end_time": "281.314",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "275.425",
+        "transcription": " Ok. It is not able for you. So what exactly the issue you are facing when you were this gas."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 278.665,
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": 278.581,
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I should    so that I can",
+        "end_time": "284.386",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "281.129",
+        "transcription": " I should    so that I can"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " that",
+        "end_time": "283.003",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "282.547",
+        "transcription": " that"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok, I'm so sorry. I am really very apologize for this inconvenience that you have placed the order from last  however, it is not complete on your is. Do not worry. I'll surely help you in this. So sometimes what happened sometimes what happened. So, it may take 7 to 10 days of time. Alright   just the steps on your",
+        "end_time": "309.901",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "290.663",
+        "transcription": " Ok, I'm so sorry. I am really very apologize for this inconvenience that you have placed the order from last  however, it is not complete on your is. Do not worry. I'll surely help you in this. So sometimes what happened sometimes what happened. So, it may take 7 to 10 days of time. Alright   just the steps on your"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " your  that but So I request you to please continue where is",
+        "end_time": "313.327",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "309.209",
+        "transcription": " your  that but So I request you to please continue where is"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " So I request you to please continue wherein this product for at least",
+        "end_time": "314.828",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "310.508",
+        "transcription": " So I request you to please continue wherein this product for at least"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " No issue. If you still wish to return the order. Just allow me a second. Let me check. best I can do for",
+        "end_time": "324.497",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "319.3",
+        "transcription": " No issue. If you still wish to return the order. Just allow me a second. Let me check. best I can do for"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "326.607",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "326.202",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please allow me",
+        "end_time": "329.746",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "328.987",
+        "transcription": " Please allow me"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please be",
+        "end_time": "352.865",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "352.207",
+        "transcription": " Please be"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "365.74",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "365.487",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 366.651,
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": 366.415,
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah ma'am.",
+        "end_time": "373.84",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "373.148",
+        "transcription": " Yeah ma'am."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah.",
+        "end_time": "374.971",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "374.549",
+        "transcription": " Yeah."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please be online. taking some time. Please be",
+        "end_time": "378.768",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "376.49",
+        "transcription": " Please be online. taking some time. Please be"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Please",
+        "end_time": "391.34",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "390.8",
+        "transcription": " Please"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ma'am so as I can check in my system that the order    on 20 ninth of   the first order",
+        "end_time": "399.457",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "392.774",
+        "transcription": " Ma'am so as I can check in my system that the order    on 20 ninth of   the first order"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Not",
+        "end_time": "396.386",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "395.795",
+        "transcription": " Not"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " on 20 ninth of  I think the first order correct?",
+        "end_time": "399.963",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "395.997",
+        "transcription": " on 20 ninth of  I think the first order correct?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " 11 mark something.",
+        "end_time": "402.089",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "400.807",
+        "transcription": " 11 mark something."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Sorry,",
+        "end_time": "402.95",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "402.123",
+        "transcription": " Sorry,"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 403.068,
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": 402.95,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "406.746",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "405.008",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " 1 second just 1 second.",
+        "end_time": "410.476",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "409.413",
+        "transcription": " 1 second just 1 second."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " it is delivered",
+        "end_time": "412.298",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "411.083",
+        "transcription": " it is delivered"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " online. I'm just checking the details for you. It's taking some time. May I please place you on hold for 1 minute so that I can check and assist you?   Yes yes I can check. Please be online. I'll  just checking and assist you accordingly.",
+        "end_time": "422.288",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "411.488",
+        "transcription": " online. I'm just checking the details for you. It's taking some time. May I please place you on hold for 1 minute so that I can check and assist you?   Yes yes I can check. Please be online. I'll  just checking and assist you accordingly."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah.",
+        "end_time": "417.715",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "417.31",
+        "transcription": " Yeah."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Sure. Thank you so much",
+        "end_time": "424.955",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "423.588",
+        "transcription": " Sure. Thank you so much"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "452.276",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "451.955",
+        "transcription": " "
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Yeah.",
+        "end_time": "558.908",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "558.537",
+        "transcription": " Yeah."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " you for staying connected ma'am.",
+        "end_time": "560.478",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "559.01",
+        "transcription": " you for staying connected ma'am."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yes ma'am. Actually, the thing is the product which you have placed you've ordered the product the first 1 the per end product I'm just talking about. It was placed on 20 ninth  and you already open for an exchange and the exchange product was delivered to you. Now you wish to return the product and  for it. Yes ma'am. So in this case, refund is not possible for exchange order right? can place the return for exchange",
+        "end_time": "587.882",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "562.553",
+        "transcription": " Yes ma'am. Actually, the thing is the product which you have placed you've ordered the product the first 1 the per end product I'm just talking about. It was placed on 20 ninth  and you already open for an exchange and the exchange product was delivered to you. Now you wish to return the product and  for it. Yes ma'am. So in this case, refund is not possible for exchange order right? can place the return for exchange"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "574.433",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "574.079",
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "577.927",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "577.64",
+        "transcription": " "
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " So  can I get",
+        "end_time": "588.642",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "587.798",
+        "transcription": " So  can I get"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " \u0924\u094b",
+        "end_time": "590.482",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "589.233",
+        "transcription": " \u0924\u094b"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " can I get the covered something   Sorry?",
+        "end_time": "595.038",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "592.034",
+        "transcription": " can I get the covered something   Sorry?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Sorry?",
+        "end_time": "594.953",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "594.43",
+        "transcription": " Sorry?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " for my",
+        "end_time": "596.439",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "595.696",
+        "transcription": " for my"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ma'am I want to place the return for exchange if possible.",
+        "end_time": "603.526",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "598.902",
+        "transcription": " Ma'am I want to place the return for exchange if possible."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " No no actually I  get the  credit",
+        "end_time": "605.601",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "603.188",
+        "transcription": " No no actually I  get the  credit"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " it's not",
+        "end_time": "609.972",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "608.082",
+        "transcription": " it's not"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. You want the store credit.",
+        "end_time": "611.677",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "610.124",
+        "transcription": " Ok. You want the store credit."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " date for the",
+        "end_time": "612.858",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "610.715",
+        "transcription": " date for the"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "615.558",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "613.634",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok, so you place  another order that's what is the in.",
+        "end_time": "619.608",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "616.655",
+        "transcription": " Ok, so you place  another order that's what is the in."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. Just 1 second, Please be online.",
+        "end_time": "623.961",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "622.139",
+        "transcription": " Ok. Just 1 second, Please be online."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ma'am so in this case, if you are looking for a store credit. So what I can do is, I can just raise a return request for exchange and regarding this, you can just place a another order if you wish to out for  another frame you also can do",
+        "end_time": "667.297",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "652.717",
+        "transcription": " Ma'am so in this case, if you are looking for a store credit. So what I can do is, I can just raise a return request for exchange and regarding this, you can just place a another order if you wish to out for  another frame you also can do"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " Yeah.       if I'm going to   it the coupon code amount   is not showing there. So I'm thinking to get it  then use the coupon code for the same.",
+        "end_time": "677.759",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "665.879",
+        "transcription": " Yeah.       if I'm going to   it the coupon code amount   is not showing there. So I'm thinking to get it  then use the coupon code for the same."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. So what exactly I understand is that you are looking for a store credit and future you will just use",
+        "end_time": "688.424",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "681.59",
+        "transcription": " Ok. So what exactly I understand is that you are looking for a store credit and future you will just use"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " instead of right now.",
+        "end_time": "691.377",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "689.875",
+        "transcription": " instead of right now."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " instead of right now. Then it good very instant",
+        "end_time": "692.896",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "689.909",
+        "transcription": " instead of right now. Then it good very instant"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " instead of taking a lot of",
+        "end_time": "694.314",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "692.525",
+        "transcription": " instead of taking a lot of"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "694.769",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "694.01",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " No problem. ma'am. problem  exception, no issue. The exception, I'm just raising a return request. And initiating a refund. but   do Actually just doing this, bond the policy. So what I'm doing is I'm just raising a return request for you now. Alright? Once the return is pick up from your address Within 2 days the return the product will pick up and it's required 1 day to update here in our system, Once the same is updated Alright? I'll just call you back. on the same number that is today is thirteenth fifth  is the day on or before fifteenth the order will pick up. by sixteenth the by sixteenth it will update in our system. seventeenth is Sunday. Correct seventeenth is Sunday. So on seventeenth or on sixteenth itself, I'll",
+        "end_time": "741.918",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "696.322",
+        "transcription": " No problem. ma'am. problem  exception, no issue. The exception, I'm just raising a return request. And initiating a refund. but   do Actually just doing this, bond the policy. So what I'm doing is I'm just raising a return request for you now. Alright? Once the return is pick up from your address Within 2 days the return the product will pick up and it's required 1 day to update here in our system, Once the same is updated Alright? I'll just call you back. on the same number that is today is thirteenth fifth  is the day on or before fifteenth the order will pick up. by sixteenth the by sixteenth it will update in our system. seventeenth is Sunday. Correct seventeenth is Sunday. So on seventeenth or on sixteenth itself, I'll"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " What will",
+        "end_time": "742.795",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "740.922",
+        "transcription": " What will"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok?",
+        "end_time": "743.183",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "742.795",
+        "transcription": " Ok?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " date will be or the portal.",
+        "end_time": "745.883",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "743.386",
+        "transcription": " date will be or the portal."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " \u0939\u093e\u0902.",
+        "end_time": "747.317",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "746.423",
+        "transcription": " \u0939\u093e\u0902."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " No not to store credit is not possible. We will just process the refund to your source account.",
+        "end_time": "754.068",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "749.444",
+        "transcription": " No not to store credit is not possible. We will just process the refund to your source account."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " the refund to",
+        "end_time": "753.545",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "752.617",
+        "transcription": " the refund to"
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " Ok.",
+        "end_time": "754.827",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "754.456",
+        "transcription": " Ok."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Alright. So regarding this regarding this what I'm just doing is I'm just raising the return and 15 by 1 the product will pick up by sixteenth it will update. So I'm so sorry  on seventeenth it is not possible. I'll call you on eighteenth",
+        "end_time": "768.665",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "756.751",
+        "transcription": " Alright. So regarding this regarding this what I'm just doing is I'm just raising the return and 15 by 1 the product will pick up by sixteenth it will update. So I'm so sorry  on seventeenth it is not possible. I'll call you on eighteenth"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " I'll call you on eighteenth with the same number. Ok. And",
+        "end_time": "770.875",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "767.483",
+        "transcription": " I'll call you on eighteenth with the same number. Ok. And"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " And in the",
+        "end_time": "771.669",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "770.42",
+        "transcription": " And in the"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " It's not so I will reach you with the same number.",
+        "end_time": "775.128",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "772.04",
+        "transcription": " It's not so I will reach you with the same number."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 773.188,
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": 773.137,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "775.381",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "775.128",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. So please share with me number. So I'll just call back to that number only.",
+        "end_time": "784.004",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "779.954",
+        "transcription": " Ok. So please share with me number. So I'll just call back to that number only."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " on",
+        "end_time": "784.105",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "783.481",
+        "transcription": " on"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " \u0917\u092f\u093e.",
+        "end_time": "786.923",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "786.383",
+        "transcription": " \u0917\u092f\u093e."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " on the same number itself. No problem. And in the meanwhile, I'm  taking a follow up in this once the order is picked up, I'm just checking this with our internal team. Ok? And regarding this, I'm just placing the return for exchange for now, don't use the exchange line link or don't place any exchange order for now. Just  you'll receive an SMS for  with an exchange link. Just now it and once the product is picked up, manually I'll forward this concern to our team and initiate the refund. Ok?",
+        "end_time": "814.43",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "787.447",
+        "transcription": " on the same number itself. No problem. And in the meanwhile, I'm  taking a follow up in this once the order is picked up, I'm just checking this with our internal team. Ok? And regarding this, I'm just placing the return for exchange for now, don't use the exchange line link or don't place any exchange order for now. Just  you'll receive an SMS for  with an exchange link. Just now it and once the product is picked up, manually I'll forward this concern to our team and initiate the refund. Ok?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 816.353,
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": 816.134,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Sure. So I'm just raising a return request. Please be",
+        "end_time": "819.543",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "816.978",
+        "transcription": " Sure. So I'm just raising a return request. Please be"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " May I please place your call on hold for 1 more minute, so that I can raise the return and share with the complete information. Thank you. Please be online.",
+        "end_time": "833.498",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "825.82",
+        "transcription": " May I please place your call on hold for 1 more minute, so that I can raise the return and share with the complete information. Thank you. Please be online."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": 877.744,
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": 877.677,
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Thank you for staying connected ma'am. Sorry for the long hold.",
+        "end_time": "924.387",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "921.198",
+        "transcription": " Thank you for staying connected ma'am. Sorry for the long hold."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. So I'm just I have already raised the return against this order. Please confirm your address once from which address you are looking for the pick up. here it is mentioned   0 \u092e\u0941\u0915\u093e\u092e so  is this address? Ok.  PIN code is 7  double 3 0 3 correct?",
+        "end_time": "943.861",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "926.294",
+        "transcription": " Ok. So I'm just I have already raised the return against this order. Please confirm your address once from which address you are looking for the pick up. here it is mentioned   0 \u092e\u0941\u0915\u093e\u092e so  is this address? Ok.  PIN code is 7  double 3 0 3 correct?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok and registered email ID here it is mentioned   r j I k e d I double a at the rate Gmail dot com. Is this the mail ID?",
+        "end_time": "951.404",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "944.89",
+        "transcription": " Ok and registered email ID here it is mentioned   r j I k e d I double a at the rate Gmail dot com. Is this the mail ID?"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " And contact number is mentioned 9 double    0   0 2   this is also the correct.",
+        "end_time": "958.39",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "953.058",
+        "transcription": " And contact number is mentioned 9 double    0   0 2   this is also the correct."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok. Ok. So I'm just",
+        "end_time": "962.66",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "960.618",
+        "transcription": " Ok. Ok. So I'm just"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " raising this Just  allow me a second.",
+        "end_time": "966.136",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "963.537",
+        "transcription": " raising this Just  allow me a second."
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Alright. So return is failed from my side, ok? And as I have already informed by fifteenth, the product will pick",
+        "end_time": "984.462",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "977.02",
+        "transcription": " Alright. So return is failed from my side, ok? And as I have already informed by fifteenth, the product will pick"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " on  on or before sixteenth, the same will update and the meanwhile, I'm also taking a follow up with our team and on eighteenth I'll just call you and  we'll share with you the refund status.",
+        "end_time": "994.823",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "985.289",
+        "transcription": " on  on or before sixteenth, the same will update and the meanwhile, I'm also taking a follow up with our team and on eighteenth I'll just call you and  we'll share with you the refund status."
+    },
+    {
+        "act_id": "01",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "993.844",
+        "language": "en",
+        "speaker_id": "Agent",
+        "start_time": "993.507",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Ok? And  1 more thing ma'am I have already  shared with you the same. I'm just repeating that we have sent you a link. don't use this link. Don't place the exchange  order for now because if you please the exchange out this case, refund will not",
+        "end_time": "1010.079",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "996.427",
+        "transcription": " Ok? And  1 more thing ma'am I have already  shared with you the same. I'm just repeating that we have sent you a link. don't use this link. Don't place the exchange  order for now because if you please the exchange out this case, refund will not"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " please  change the refund will not possible.",
+        "end_time": "1011.142",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "1007.598",
+        "transcription": " please  change the refund will not possible."
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " ",
+        "end_time": "1012.728",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "1012.087",
+        "transcription": " "
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " Yeah sure. Sure ma'am. Thank you so much. Is there anything else that I may assist you with?",
+        "end_time": "1018.027",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "1012.728",
+        "transcription": " Yeah sure. Sure ma'am. Thank you so much. Is there anything else that I may assist you with?"
+    },
+    {
+        "act_id": "02",
+        "actual_language": "english",
+        "actual_transcript": " there anything",
+        "end_time": "1016.356",
+        "language": "en",
+        "speaker_id": "02",
+        "start_time": "1015.816",
+        "transcription": " there anything"
+    },
+    {
+        "act_id": "00",
+        "actual_language": "english",
+        "actual_transcript": " You're welcome. Thank you for contacting sort. Have a great day.",
+        "end_time": "1023.781",
+        "language": "en",
+        "speaker_id": "Customer",
+        "start_time": "1020.119",
+        "transcription": " You're welcome. Thank you for contacting sort. Have a great day."
+    }
+]
